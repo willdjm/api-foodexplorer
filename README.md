@@ -50,10 +50,6 @@ https://github.com/willdjm/foodexplorer-frontend
 </a>
 
 ```bash
-  https://github.com/willdjm/foodexplorer-frontend
-```
-
-```bash
 npm install
 npm run dev
 ```
