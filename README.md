@@ -1,9 +1,15 @@
 <h1 align="center" style="text-align: center;">
-  Food Explorer
+  Food Explorer - API
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <a href='https://foodexplorer-frontend-topaz.vercel.app/' target='_blank'>
+🚀 Acesse aqui 🚀
+</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="./public/capa.png">
 </p>
 
 ## 📁 Projeto
@@ -33,34 +39,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Instalação e execução - BACKEND
 
-```bash
-  https://github.com/willdjm/api-foodexplorer
-```
+<a href='https://github.com/willdjm/api-foodexplorer' target='_blank'>
+https://github.com/willdjm/api-foodexplorer
+</a>
 
 ```bash
-  npm install
-```
-
-```bash
-  npm run migrate
-```
-
-```bash
-  npm run dev
+npm install
+npm run migrate
+npm run dev
 ```
 
 ## 💻 Instalação e execução - FRONTEND
+
+<a href='https://github.com/willdjm/foodexplorer-frontend' target='_blank'>
+https://github.com/willdjm/foodexplorer-frontend
+</a>
 
 ```bash
   https://github.com/willdjm/foodexplorer-frontend
 ```
 
 ```bash
-  npm install
-```
-
-```bash
-  npm run dev
+npm install
+npm run dev
 ```
 
 ## 👨‍👩‍👧‍👦 Acessos
