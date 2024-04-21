@@ -3,12 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href='https://foodexplorer-frontend-topaz.vercel.app/' target='_blank'>
-🚀 Acesse aqui 🚀
-</a>
-</p>
-
-<p align="center">
   <img alt="License" src="./public/capa.png">
 </p>
 
